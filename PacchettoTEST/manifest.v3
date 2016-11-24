@@ -10,11 +10,4 @@
   <null name="requires"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
-  <value name="name">Deploy</value>
-  <value name="build"></value>
-  <value name="description">DeployTest_</value>
-  <value name="time">2016-11-14 18:06:24 CET</value>
-  <value name="jvm_version">1.7.0_25</value>
-  <null name="publisher"/>
-  <value name="patch_nums"></value>
 </Values>
